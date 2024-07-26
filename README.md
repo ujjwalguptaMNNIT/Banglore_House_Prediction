@@ -69,7 +69,7 @@ This project involves developing a real estate price prediction website using a 
 - **Performance Improvement**: Enhanced the prediction model's reliability through rigorous data cleaning, feature engineering, and cross-validation techniques.
 - **User Engagement**: Provided an intuitive interface that improves user experience and engagement.
 
-### Resume Points (ATS-Friendly)
+### SUMMARY
 
 - **Developed** a comprehensive real estate price prediction website using the Bengaluru House price dataset, achieving a model accuracy score of 0.845.
 - **Implemented** data cleaning and feature engineering techniques using Python, Numpy, and Pandas, improving model reliability by 15%.
