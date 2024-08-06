@@ -1,5 +1,8 @@
 ### Detailed Project Report: Real Estate Price Prediction Website
 
+
+https://github.com/user-attachments/assets/aa2c44b5-5ad4-42e8-9416-b86fe2eb7c87
+
 #### Project Overview
 
 This project involves developing a real estate price prediction website using a machine learning model trained on the Bengaluru House price dataset from Kaggle. The project integrates various data science and web development technologies to provide users with an interface to predict home prices based on features like square footage, number of bedrooms, and location.
